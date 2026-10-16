@@ -3,23 +3,93 @@
   "version": 2,
   "sources": [
     {
-      "name": "最大资源",
-      "url": "https://api.zuidapi.com/api.php/provide/vod",
+      "name": "百度资源",
+      "url": "https://api.apibdzy.com/api.php/provide/vod",
       "isAdult": false
     },
     {
-      "name": "U酷资源",
-      "url": "https://api.ukuapi88.com/api.php/provide/vod",
+      "name": "新浪资源",
+      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
       "isAdult": false
     },
     {
-      "name": "爱坤资源",
-      "url": "https://ikunzyapi.com/api.php/provide/vod",
+      "name": "电影天堂资源",
+      "url": "https://caiji.dyttzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "非凡资源",
+      "url": "https://ffzy5.tv/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "极速资源",
+      "url": "https://jszyapi.com/api.php/provide/vod/at/json",
+      "isAdult": false
+    },
+    {
+      "name": "红牛资源",
+      "url": "https://www.hongniuzy3.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "豪华资源",
+      "url": "https://hhzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "光速资源",
+      "url": "https://api.guangsuapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "猫眼资源",
+      "url": "https://api.maoyanapi.top/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "360资源",
+      "url": "https://360zy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "速播资源",
+      "url": "https://subocaiji.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "虎牙资源",
+      "url": "https://www.huyaapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "优质资源",
+      "url": "https://api.1080zyku.com/inc/api_mac10.php",
+      "isAdult": false
+    },
+    {
+      "name": "如意资源",
+      "url": "https://cj.rycjapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "爱奇艺资源",
+      "url": "https://iqiyizyapi.com/api.php/provide/vod",
       "isAdult": false
     },
     {
       "name": "量子资源",
       "url": "https://cj.lziapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "暴风资源",
+      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "爱坤资源",
+      "url": "https://ikunzyapi.com/api.php/provide/vod",
       "isAdult": false
     },
     {
@@ -33,111 +103,19 @@
       "isAdult": false
     },
     {
-      "name": "暴风资源",
-      "url": "https://bfzyapi.com/api.php/provide/vod",
+      "name": "最大资源",
+      "url": "https://api.zuidapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "U酷资源",
+      "url": "https://api.ukuapi88.com/api.php/provide/vod",
       "isAdult": false
     },
     {
       "name": "魔都资源",
       "url": "https://www.mdzyapi.com/api.php/provide/vod",
       "isAdult": false
-    },
-    {
-      "name": "红牛资源",
-      "url": "https://www.hongniuzy3.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "极速资源",
-      "url": "https://jszyapi.com/api.php/provide/vod/at/json",
-      "isAdult": false
-    },
-    {
-      "name": "虎牙资源",
-      "url": "https://www.huyaapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "豪华资源",
-      "url": "https://hhzyapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "优质资源",
-      "url": "https://api.1080zyku.com/inc/api_mac10.php",
-      "isAdult": false
-    },
-    {
-      "name": "速播资源",
-      "url": "https://subocaiji.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "光速资源",
-      "url": "https://api.guangsuapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "新浪资源",
-      "url": "https://api.xinlangapi.com/xinlangapi.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "猫眼资源",
-      "url": "https://api.maoyanapi.top/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "非凡资源",
-      "url": "https://ffzy5.tv/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "百度资源",
-      "url": "https://api.apibdzy.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "360资源",
-      "url": "https://360zy.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "爱奇艺资源",
-      "url": "https://iqiyizyapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "如意资源",
-      "url": "https://cj.rycjapi.com/api.php/provide/vod",
-      "isAdult": false
-    },
-    {
-      "name": "电影天堂资源",
-      "url": "https://caiji.dyttzyapi.com/api.php/provide/vod",
-      "isAdult": false
-    }
-  ],
-  "liveSources": [
-    {
-      "name": "zbds IPTV4 (521台·带台标EPG)",
-      "url": "https://live.zbds.top/tv/iptv4.m3u"
-    },
-    {
-      "name": "vbskycn IPTV4 (6小时自动更新)",
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/vbskycn/iptv/refs/heads/master/tv/iptv4.m3u"
-    },
-    {
-      "name": "iptv-org 中国大陆 (507台·含4K条目)",
-      "url": "https://raw.githubusercontent.com/iptv-org/iptv/master/streams/cn.m3u"
-    },
-    {
-      "name": "aptv 综合源 (含卫视4K条目)",
-      "url": "https://raw.githubusercontent.com/Kimentanm/aptv/master/m3u/iptv.m3u"
-    },
-    {
-      "name": "YanG 综合源 (123台)",
-      "url": "https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u"
     }
   ]
 }
