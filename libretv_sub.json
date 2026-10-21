@@ -1,6 +1,6 @@
 {
-  "name": "km 影视源订阅 (2026-10-21 实测)",
-  "version": 2,
+  "name": "km 影视源订阅 (2026-10-22 实测，kmhub增补14)",
+  "version": 3,
   "sources": [
     {
       "name": "无尽资源",
@@ -115,6 +115,76 @@
     {
       "name": "如意资源",
       "url": "https://cj.rycjapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "非凡资源",
+      "url": "https://cj.ffzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "索尼资源",
+      "url": "https://suoniapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "红牛资源",
+      "url": "https://www.hongniuzy2.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "魔都资源",
+      "url": "https://caiji.moduapi.cc/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "樱花资源",
+      "url": "https://m3u8.apiyhzy.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "天涯资源",
+      "url": "https://tyyszyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "牛牛资源",
+      "url": "https://api.niuniuzy.me/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "闪电资源",
+      "url": "https://xsd.sdzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "OK资源",
+      "url": "https://api.okzyw.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "丫丫资源",
+      "url": "https://cj.yayazy.net/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "快车资源",
+      "url": "https://caiji.kuaichezy.org/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "西瓜资源",
+      "url": "https://caiji.xgzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "大众资源",
+      "url": "https://cdn.dzzyapi.com/api.php/provide/vod",
+      "isAdult": false
+    },
+    {
+      "name": "卧龙资源",
+      "url": "https://collect.wolongzyw.com/api.php/provide/vod",
       "isAdult": false
     }
   ]
